@@ -1,17 +1,29 @@
 # photoOrganizer
 Organize photos on local filesystem;  
-- inventory all photos : done, see obj.phDict
+- inventory all photos : [**done**], see obj.phDict
 - compare photos
 - cleanup duplicates
 - organize into albums 
 
 ## Repository
 
-Types of repositories
-- local files: root directory containing subtree of images
+### Types of repositories
+- local files: root directory containing subtree of images [**done**]
 - osxphoto DB: images stored in Mac DB
 - Windows???
 - Other photo apps
+
+### Image Types
+- jpeg/jpg: PIL/CV
+- png: PIL/CV
+- pdf: tessaract
+- heic (iphone): ???
+- mp4: ???
+- mov: ???
+
+  Clean up non-images
+- .gslides:  ???
+- .gdoc: ???
 
 ### Features Desired
 a) within respository
