@@ -1,7 +1,7 @@
 # photoOrganizer
 Organize photos on local filesystem;  
 - inventory all photos : [**done**], see obj.phDict
-- compare photos
+- compare photos : [**draft** pyImgDiff.py]
 - cleanup duplicates
 - organize into albums 
 
